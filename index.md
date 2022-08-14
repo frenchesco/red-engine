@@ -1,6 +1,6 @@
 ## Red Engine
 
-Welcome to Red Engine. We chat at https://discord.gg/tgaGaK5tFQ.
+Welcome to Red Engine. We chat at [https://discord.gg/tgaGaK5tFQ](https://discord.gg/tgaGaK5tFQ).
 
 ### Team Spreadsheets
 
@@ -19,7 +19,7 @@ Thanks to **/u/_erik_g** on Reddit, you can [download a template to keep track o
 
 **Team:**
 
-- [GUBBZ Manual Routes](https://www[GUBBZ](.youtube.com/channel/UCXuTx3EpfqMw3U8TGrflOtg/playlists)
+- [GUBBZ Manual Routes](https://www.youtube.com/channel/UCXuTx3EpfqMw3U8TGrflOtg/playlists)
 - [Marc TouchDrive Routes](https://www.youtube.com/channel/UCYeQt7SeAdx42fkd_9qPIOA/playlists)
 
 **Other Helpful Channels:**
