@@ -4,7 +4,7 @@ Welcome to Red Engine. We chat at [https://discord.gg/tgaGaK5tFQ](https://discor
 
 ### Team Spreadsheets
 
-- [Team Stats](https://docs.google.com/spreadsheets/d/13BRaVA_Wl3C60mWBpe9sQ23FSMWrdbhKVISmwB_lpgs/edit) - See the daily repuation progression of the team
+- [Team Stats](https://docs.google.com/spreadsheets/d/13BRaVA_Wl3C60mWBpe9sQ23FSMWrdbhKVISmwB_lpgs/edit) (by __GUBBZ__) - See the daily repuation progression of the team
 - [Team Cars](https://docs.google.com/spreadsheets/d/19D8S-W2KkV-CWv6r6EMFNP0PsjQVmeCL2vXlvOXOgjM/edit) - List of all team members cars
 - [The Clash](https://docs.google.com/spreadsheets/d/1mQrQhcVZ1dYGJXSoJ_3L6gTnXpybVdz7DCI79h2oulc/edit) - Used to determine which streets to tackle in The Clash
 
@@ -31,3 +31,4 @@ Thanks to **/u/_erik_g** on Reddit, you can [download a template to keep track o
 ### Useful Resources
 
 - [Asphalt 9 Reddit](https://www.reddit.com/r/Asphalt9/)
+- [The Complete History of Asphalt 9: Legends](https://docs.google.com/spreadsheets/d/1O10MLoOS6LRw-u0UpCsO9gBhcNHIX1Wjda8MS8LPJC0/edit) (by __/u/_eric_g__)
