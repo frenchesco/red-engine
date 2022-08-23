@@ -10,7 +10,7 @@ Welcome to Red Engine. We chat at [https://discord.gg/tgaGaK5tFQ](https://discor
 
 ### Team Members
 
-Thanks to **/u/_erik_g** on Reddit, you can [download a template to keep track of all your cars](https://www.reddit.com/r/Asphalt9/comments/u889a3/if_you_want_an_asphalt_9_spreadsheet_to_call_your/).
+Thanks to [/u/_erik_g](https://www.reddit.com/user/_erik_g/) on Reddit, you can [download a template to keep track of all your cars](https://www.reddit.com/r/Asphalt9/comments/u889a3/if_you_want_an_asphalt_9_spreadsheet_to_call_your/).
 
 - [GUBBZ](https://docs.google.com/spreadsheets/d/19HmWNH91rV0rp8lox50Md16gFWtSI44kxmQnLlFcsAo/edit)
 - [Marc](https://docs.google.com/spreadsheets/d/1kwQ0wCYngeSzR8yXBwWa6HnY3Qdo2xNWLLiy-ThUg5M/edit)
@@ -31,4 +31,4 @@ Thanks to **/u/_erik_g** on Reddit, you can [download a template to keep track o
 ### Useful Resources
 
 - [Asphalt 9 Reddit](https://www.reddit.com/r/Asphalt9/)
-- [The Complete History of Asphalt 9: Legends](https://docs.google.com/spreadsheets/d/1O10MLoOS6LRw-u0UpCsO9gBhcNHIX1Wjda8MS8LPJC0/edit) (by __/u/_eric_g__)
+- [The Complete History of Asphalt 9: Legends](https://docs.google.com/spreadsheets/d/1O10MLoOS6LRw-u0UpCsO9gBhcNHIX1Wjda8MS8LPJC0/edit) (by [/u/_eric_g](https://www.reddit.com/user/_erik_g/))
